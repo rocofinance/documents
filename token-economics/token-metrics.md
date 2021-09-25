@@ -1,7 +1,5 @@
 # Token Metrics
 
-
-
 ### Token Distribution
 
 ![](../.gitbook/assets/token-metrics.png)
