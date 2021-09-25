@@ -12,7 +12,7 @@ Stake Pools are the simplest way to earn free tokens on Roco Finance. Stake ROCO
 * The Enable button should now be replaced with Stake. Click the button to bring up the staking menu - Type in an amount for how much ROCO you want to stake.
 * Click Confirm. Your wallet will ask you to confirm the action.
 
-### Removing CAKE from a pool
+### Removing ROCO from a pool
 
 You can easily add more ROCO to a Pool, or move some ROCO to a more profitable pool. Here’s how you can move your staked ROCO.
 
