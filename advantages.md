@@ -1,9 +1,5 @@
 # Advantages
 
-
-
-## Advantages
-
 ### Functional Benefits
 
 * Faster transactions and cheaper fees
