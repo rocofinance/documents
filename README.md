@@ -4,7 +4,7 @@
 
 ### Introduction
 
-ROCO is a decentralized GAMEFI platform which provide blockchain services to game developers, content creators and player communities through the blockchain network. Roco developed on AVAX network for using in Rokosoft’s own game ecosystem and partner games. Rokosoft plans to drive the evolution of online gaming with targeted industryfocused solutions to help promising gaming projects reach their full potential.
+ROCO is a decentralized GAMEFI platform which provide blockchain services to game developers, content creators and player communities through the blockchain network. Roco developed on AVAX network for using in Rokosoft’s own game ecosystem and partner games. Rokosoft plans to drive the evolution of online gaming with targeted industry focused solutions to help promising gaming projects reach their full potential.
 
 ### Play & Earn
 
