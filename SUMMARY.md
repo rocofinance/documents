@@ -13,7 +13,6 @@
   * [Vesting](token-economics/vesting.md)
   * [Funding Allocation](token-economics/funding-allocation.md)
 * [Road Map](road-map.md)
-* [Team](team.md)
 
 ## Documents
 
