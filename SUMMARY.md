@@ -13,9 +13,11 @@
   * [Vesting](token-economics/vesting.md)
   * [Funding Allocation](token-economics/funding-allocation.md)
 * [Road Map](road-map.md)
+* [Business Deck](https://roco.finance/pdf/bdeck.pdf)
 * [Business Deck](https://roco-finance/pdf/bdeck.pdf)
 
 ## Technical Documents
 
-* [Roco Token](technical-documents/roco-token.md)
+* [Roco Token](technical-documents/roco-token/README.md)
+  * [Roco Token](technical-documents/roco-token/roco-token.md)
 
