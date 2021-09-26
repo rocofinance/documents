@@ -18,6 +18,7 @@
 
 ## Technical Documents
 
-* [Roco Token](technical-documents/roco-token/README.md)
-  * [Roco Token](technical-documents/roco-token/roco-token.md)
+---
+
+* [Roco Token](roco-token.md)
 
