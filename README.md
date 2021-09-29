@@ -8,7 +8,7 @@ ROCO is a decentralized GAMEFI platform which provide blockchain services to gam
 
 ### Play & Earn
 
-It is the first project that aims to unite both game developers and player communities with the Play and Earn philosophy via blockchain. While making improvements for players to gain crypto assets in the game with game add-ons, it also provides a decentralized platform service where players can buy and sell their virtual items with the NFT Market, thus ensuring that NFTs have real world asset.
+It is the first project that aims to unite both game developers and player communities with the Play and Earn philosophy via blockchain. While making improvements for players to gain crypto assets in the game with game add-ons, it also provides a decentralized platform service where players can buy and sell their virtual items with the [NFT Market](https://roco.finance/collectibles), thus ensuring that NFTs have real world asset.
 
 ### Usecases
 
