@@ -30,7 +30,7 @@ You may decide you would like to add more LP Tokens to a Farm at a later date, o
 
 Farming will bring you ROCO rewards over time. You can collect these rewards and use them to get more LP Tokens, stake them in Stake Pools.
 
-* Return to the [Farms ](farming.md)page . 
+* Return to the [Farms ](https://roco.finance/farm)page . 
 * Find the Farm you staked your LP Tokens in, and click the row to view details. You should see an estimate of your rewards under “Roco earned”. 
 * Click the Harvest button and confirm the action in your wallet. After a short wait, the ROCO will be claimed to your wallet for you to use as you like.
 * Remember that there is a small fee involved in each harvesting.
