@@ -15,8 +15,8 @@
 
 * R&D costs of partner companies decrease as they use Roco Finance products.
 * Genuine ownership will bring more loyalty to gamings.
-* We manage the IDO process of game developers with Roco Starter. We support them at every stage of their crowdfunding process.
-* Game developers can make initial asset our NFT Market before even at pre-launch or post-launch of the games.
+* We manage the IDO process of game developers with [Roco Starter](https://roco.finance/starter). We support them at every stage of their crowdfunding process.
+* Game developers can make initial asset our [NFT Market](https://roco.finance/collectibles) before even at pre-launch or post-launch of the games.
 * With the purchases made in our NFT Market, we ensure that all transactions are carried out in a transparent and secure manner. Thus, we minimize chargeback and fraud transactions.
 
 ### Investors Benefits
