@@ -4,7 +4,7 @@ Farms allow users to earn ROCO while supporting Roco Finance by staking LP Token
 
 ### How to Use Farms?
 
-Unlike Stake Pools, Farms require you to stake two tokens to get LP Tokens, which you then stake in the Farm to earn rewards. This lets you earn ROCO while still keeping a position in your other tokens!
+Unlike Stake Pools, Farms require you to stake two tokens to get LP Tokens, which you then stake in the [Farm ](https://roco.finance/farm)to earn rewards. This lets you earn ROCO while still keeping a position in your other tokens!
 
 * You’re going to need some "LP Tokens" to enter into a Farm with. Farms can only accept their own exact LP Token; for example, the ROCO-AVAX Farm will only accept ROCOAVAX LP Tokens.
 * To get the exact LP Token, you'll need to provide liquidity for that trading pair. So to get ROCO-AVAX LP Tokens, you'll first have to provide liquidity for the ROCO-AVAX pair.  
