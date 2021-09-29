@@ -1,6 +1,6 @@
 # Stake Pools
 
-Stake Pools are the simplest way to earn free tokens on Roco Finance. Stake ROCO, earn free tokens. It’s really that easy. Some special pools of game projects let you stake other tokens besides ROCO, too!
+[Stake Pools](https://roco.finance/pool) are the simplest way to earn free tokens on Roco Finance. Stake ROCO, earn free tokens. It’s really that easy. Some special pools of game projects let you stake other tokens besides ROCO, too!
 
 ### How can I use Stake Pools?
 
