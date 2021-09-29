@@ -28,7 +28,7 @@ Developers that manage to integrate blockchain gaming and token-based features i
 
 #### Secure Peer-To-Peer Trading Solution
 
-Roco Finance created its NFT market place which allows gamers to easily purchase or sell their in-game items in the form of non-fungible tokens \(NFTs\). This platform is fully transparent and gives gamers the ability to buy sought-after virtual items or sell them with peace of mind.
+Roco Finance created its [NFT market](https://roco.finance/collectibles) place which allows gamers to easily purchase or sell their in-game items in the form of non-fungible tokens \(NFTs\). This platform is fully transparent and gives gamers the ability to buy sought-after virtual items or sell them with peace of mind.
 
 #### The ROCO Payment Gateway System
 
@@ -40,7 +40,7 @@ Roco Finance helps game developers integrate blockchain gaming features into the
 
 #### Blockchain Gaming Marketing Solutions
 
-Roco Finance helps blockchain-based games to promote and market their products through the Roco Starter IDO. Roco Finance will organize IDOs for promising projects, provide technical support and contribute to their token economics during the seed and incubation stage of development.
+Roco Finance helps blockchain-based games to promote and market their products through the [Roco Starter](https://roco.finance/starter) IDO. Roco Finance will organize IDOs for promising projects, provide technical support and contribute to their token economics during the seed and incubation stage of development.
 
 #### Roco Finance Community Offerings
 
