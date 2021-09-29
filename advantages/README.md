@@ -22,7 +22,7 @@
 ### Investors Benefits
 
 * Roco token holders can stake their own tokens and earn passive income.
-* Roco token stakers have priority participation in IDOs at [Roco Starter.](products/roco-starter.md)
+* Roco token stakers have priority participation in IDOs at [Roco Starter.](../products/roco-starter.md)
 * Roco token stakers can earn airdrops from partner games tokens.
 * Roco Finance will organize a buyback program every year. Buyback amount is 10% of annual revenue.
 * Roco Finance receives 1% fee for each transaction at NFT market. Roco Finance distributes all transaction commission to stakers.

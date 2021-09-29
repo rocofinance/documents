@@ -1,8 +1,8 @@
 # Table of contents
 
 * [ROCO FINANCE INTRO](README.md)
-* [Problems & Solutions](problems-and-solutions.md)
-* [Advantages](advantages.md)
+* [Advantages](advantages/README.md)
+  * [Problems & Solutions](advantages/problems-and-solutions.md)
 * [Products](products/README.md)
   * [Farming](products/farming.md)
   * [Stake Pools](products/stake-pools.md)
