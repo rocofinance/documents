@@ -20,7 +20,7 @@ You can easily add more ROCO to a Pool, or move some ROCO to a more profitable p
 
 ### Collecting your staking rewards
 
-* Return to the Stake page .
+* Return to the [Stake page](https://roco.finance/pool) .
 * Find the Pool you staked your ROCO Tokens in, and click the row to view details. You should see an estimate of your rewards under “Roco earned”. 
 * Click the Unstake button and confirm the action in your wallet. After a short wait, the ROCO will be claimed to your wallet for you to use as you like. 
 * Remember that there is a small fee involved in each harvesting.
