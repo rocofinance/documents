@@ -13,7 +13,7 @@
 
 ### Developers Benefits
 
-* R&D costs of partner companies decrease as they use Roco Finance products.
+* R\&D costs of partner companies decrease as they use Roco Finance products.
 * Genuine ownership will bring more loyalty to gamings.
 * We manage the IDO process of game developers with [Roco Starter](https://roco.finance/starter). We support them at every stage of their crowdfunding process.
 * Game developers can make initial asset our [NFT Market](https://roco.finance/collectibles) before even at pre-launch or post-launch of the games.
@@ -27,7 +27,3 @@
 * Roco Finance will organize a buyback program every year. Buyback amount is 10% of annual revenue.
 * Roco Finance receives 1% fee for each transaction at NFT market. Roco Finance distributes all transaction commission to stakers.
 * 20% of revenue is used to incubate projects developed via our tools.
-* 10% of revenue is used to provide liquidity—Roco and launched games.
-* Roco Finance distributes 10% of the NFT market item sales revenue of its own games to stakers
-* 10% of the Roco Token revenue from monthly membership fees and Rise cash sales will bedistributed to the stakers. We will apply the same reward distribution rate for all of our games that we will develop in the future
-
