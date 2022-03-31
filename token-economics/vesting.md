@@ -8,5 +8,5 @@
 * Strategic Services 30 days cliff, 8.33% a month for 12 months
 * Sustainability 2 years cliff, 16.66% a month for 6 months
 * Seed & Private 10% unlocked, 3-month cliff, 5% monthly for 2 months, 80% 60-month linear distribution.
-* Public Sale 100% unlocked
+* Public Sale 100% unlocked.
 
