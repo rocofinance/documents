@@ -2,33 +2,33 @@
 
 ### Time Line
 
-#### Q4 2021
 
-* Public sale/token trades
-* Roco Stake Pools Launches
-* Roco Starter Launches
-* Roco NFT Market 1.0 Vers. Launches
-* Blockchain Integration Of Riseonline Starts
-* Developing of SDK and API Starts
-* Developing of Payment Gateway Starts
-* Developing of Mobile Wallet Starts
-* Riseonline Closed Beta Version Launches
 
-### Q1 2022
+### Q1 2023
 
-* Mobile Wallet integration starts
-* New game developing starts
-* New Partnerships with game developers
+* Roco NFT Markpetplace will be launched
+* Surprise Partnership announcements
+* Pet Event in Rise Online
+* Polygon integration will be completed
 
-### Q2 2022
+### Q2 2023
 
-* Roco NFT Market Alpha Vers. Launches
+* Bnb Chain integration will be completed
+* Roco Wallet (Web Edition) will be ready to use
+* Poker Game, that was 7 Different game modules, Alpha version will be launched
 
-### Q3 2022
+### Q3 2023
 
-* Multichain cross platform developing starts
+* Meeting with game publishers for LATAM/SEA Regions
+* Local exchange listing will be announced
+* New Dungeon will be active in Rise Online
+* New Battleground Map will be launched in Rise Online
 
-### Q4 2022
+### Q4 2023
 
-* New Game 1.0 Vers. Launches
+* Rise Online Official Launch
+* Rise Online LATAM server launch
+* Poker Game official version will be launched
+* Other board game versions will be released after Poker Game
+* New Roadmap will be announced 2024
 
